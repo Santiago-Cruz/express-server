@@ -1,0 +1,3 @@
+Mi proyecto es una aplicación de lista de tareas que he creado. Con esta aplicación, puedes organizar tus tareas de manera eficiente. Puedes añadir nuevas tareas, especificar su estado, ya sea completada o pendiente, y asignarles un índice único. Además, tienes la flexibilidad de modificar cualquier tarea existente, ya sea para cambiar su estado o actualizar la descripción. También puedes eliminar cualquier tarea que ya no necesites.
+
+La interfaz de la aplicación es intuitiva y fácil de usar. Puedes ver la lista completa de tareas, filtrarlas según su estado o buscar tareas específicas por su índice. La aplicación te proporcionará una experiencia fluida y eficiente para gestionar tus tareas de manera efectiva.
